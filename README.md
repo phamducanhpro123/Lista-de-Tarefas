@@ -21,7 +21,7 @@ Este é um simples gerenciador de tarefas feito em Python, que permite adicionar
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/gerenciador-tarefas-python.git
+   git clone https://github.com/pedrolucasfonseca/gerenciador-tarefas-python.git
    cd gerenciador-tarefas-python
    ```
 
